@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/checkboxs">
+        <file>res/Mute_D.png</file>
+        <file>res/Mute_E.png</file>
+    </qresource>
+    <qresource prefix="/shotview">
+        <file>res/Ic23.ico</file>
+        <file>res/m02.ICO</file>
+        <file>res/m04.ICO</file>
+    </qresource>
+    <qresource prefix="/light">
+        <file>res/light_green.ico</file>
+        <file>res/light_red.ico</file>
+        <file>res/light_yellow.ico</file>
+    </qresource>
+    <qresource prefix="/buttons">
+        <file>res/end1.png</file>
+        <file>res/end2.png</file>
+        <file>res/camera1.png</file>
+        <file>res/backspace_1.png</file>
+        <file>res/close_24.png</file>
+        <file>res/dialog_ok24.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>res/background.jpg</file>
+        <file>res/_logo2.png</file>
+    </qresource>
+</RCC>

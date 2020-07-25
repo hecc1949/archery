@@ -1,0 +1,52 @@
+{
+    "application":"archerview",
+    "imagelist": {
+        "bulletin-pane":  {
+            "idle": [
+                "ac006.jpg",
+                "ac007.jpg",
+                "ac026.jpg",
+                "ag006.jpg",
+                "ag011.jpg"
+            ],
+            "runing": [
+                "cat01.gif",
+                "bowl01.gif",
+                "bowl02.gif",
+                "s5o01.gif",
+                "weave01.gif",
+                "ag022.jpg",
+                "ar001.jpg",
+                "ag009.jpg",
+                "ag010.jpg",
+                "ag011.jpg"
+            ],
+            "gameover": [
+                "ac004.jpg",
+                "ac005.jpg",
+                "ac011.jpg",
+                "asi001.png",
+                "asi002.png",
+                "asi005.jpg",
+                "asi006.jpg",
+                "asi007.jpg"
+            ],
+            "other": [
+                "ac003.jpg",
+                "ac010.jpg",
+                "ac012.jpg",
+                "ac014.jpg",
+                "ac016.jpg",
+                "ac017.jpg",
+                "ac018.jpg",
+                "ac020.jpg",
+                "ac021.jpg",
+                "ac024.jpg",
+                "ac029.jpg",
+                "ag004.jpg",
+                "ag005.jpg"
+            ]
+        }
+    }
+}
+
